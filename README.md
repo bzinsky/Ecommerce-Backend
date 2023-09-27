@@ -45,5 +45,4 @@ Rename the file from ".env.EXAMPLE" to ".env" and make sure to update the conten
 https://www.github.com/bzinsky
 -----------------
 bzinsky@gmail.com
------------------
-Please contact me via: Email
+

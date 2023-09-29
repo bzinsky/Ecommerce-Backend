@@ -10,7 +10,6 @@ A backend system employs an SQL database alongside endpoints to facilitate the t
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contribution](#contribution)
 - [Tests](#tests)
 - [Questions](#questions)
 
@@ -31,10 +30,6 @@ Rename the file from ".env.EXAMPLE" to ".env" and make sure to update the conten
 ## License
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-
-## Contribution
-
-
 
 ## Tests
 

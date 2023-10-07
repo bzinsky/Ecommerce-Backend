@@ -33,7 +33,7 @@ Rename the file from ".env.EXAMPLE" to ".env" and make sure to update the conten
 
 ## Tests
 
-![](./assets/Screenshot%202023-09-27%20192100.png)
+https://drive.google.com/file/d/1Qe0piSRXmh80ByvP7gwBkwGIIQ7lgZvH/view
 
 ## Questions
 
